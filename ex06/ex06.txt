@@ -1,0 +1,6 @@
+PS C:\Users\mngok\OneDrive\Documents\Lab - Program Files\DS - Lab\ex05> cd "c:\Users\mngok\OneDrive\Documents\Lab - Program Files\DS - Lab\ex06\" ; if ($?) { gcc ex06.c -o ex06 } ; if ($?) { .\ex06 }
+Preorder traversal of the constructed AVL tree is 
+9 1 0 -1 5 2 6 10 11 
+
+Preorder traversal after deletion of 10 
+1 0 -1 9 5 2 6 11 
