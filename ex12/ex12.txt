@@ -1,0 +1,27 @@
+PS C:\Users\mngok> cd "c:\Users\mngok\OneDrive\Documents\Lab - Program Files\DS - Lab\ex12\ex12\" ; if ($?) { gcc ex12.c -o ex12 } ; if ($?) { .\ex12 }
+Enter how many students: 2
+
+Enter name and roll number for student 1: GOKUL
+4211026
+
+Enter name and roll number for student 2: BHARATHI
+4211028
+
+Enter marks of student 1 for subject 1: 82
+
+Enter marks of student 1 for subject 2: 88
+
+Enter marks of student 1 for subject 3: 86
+
+Enter marks of student 2 for subject 1: 72
+
+Enter marks of student 2 for subject 2: 77
+
+Enter marks of student 2 for subject 3: 79
+
+Total marks obtained by student GOKUL are 256
+Total marks obtained by student BHARATHI are 228
+Student GOKUL got maximum marks = 82 in Subject: 1
+Student GOKUL got maximum marks = 88 in Subject: 2
+Student GOKUL got maximum marks = 86 in Subject: 3
+GOKUL obtained the total highest marks.
