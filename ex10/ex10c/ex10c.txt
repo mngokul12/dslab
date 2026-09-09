@@ -1,0 +1,21 @@
+PS C:\Users\mngok\OneDrive\Documents\Lab - Program Files\DS - Lab\ex10\ex10b> cd "c:\Users\mngok\OneDrive\Documents\Lab - Program Files\DS - Lab\ex10\ex10c\" ; if ($?) { gcc ex10c.c -o ex10c } ; if ($?) { .\ex10c }
+
+-------INSERTION SORT------- 
+Enter the number of elements: 4
+Enter 4 elements:
+1
+56
+23
+78
+
+Menu:
+1. Sort using Insertion Sort
+2. Print the sorted array
+3. Exit
+Enter your choice: 1
+Array sorted using Insertion Sort.
+
+Menu:
+1. Sort using Insertion Sort
+2. Print the sorted array
+3. Exit
