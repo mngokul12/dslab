@@ -1,0 +1,46 @@
+PS C:\Users\mngok\OneDrive\Documents\Lab - Program Files\DS - Lab\ex10\ex10d> cd "c:\Users\mngok\OneDrive\Documents\Lab - Program Files\DS - Lab\ex11\ex11a\" ; if ($?) { gcc ex11a.c -o ex11a } ; if ($?) { .\ex11a }
+
+Press 1. Insert 2. Display      3. Exit
+Enter your choice: 1
+
+Enter a value to insert into hash table: 12
+Value inserted successfully.
+
+Press 1. Insert 2. Display      3. Exit
+Enter your choice: 1
+
+Enter a value to insert into hash table: 7
+Value inserted successfully.
+
+Press 1. Insert 2. Display      3. Exit
+Enter your choice: 1
+
+Enter a value to insert into hash table: 3
+Value inserted successfully.
+
+Press 1. Insert 2. Display      3. Exit
+Enter your choice: 2
+
+Hash Table:
+Entries at index 0: 12 -> 3 -> NULL
+Entries at index 1: 7 -> NULL
+Entries at index 2: No Hash Entry
+
+Press 1. Insert 2. Display      3. Exit
+Enter your choice: 1
+
+Enter a value to insert into hash table: 15
+Value inserted successfully.
+
+Press 1. Insert 2. Display      3. Exit
+Enter your choice: 2
+
+Hash Table:
+Entries at index 0: 12 -> 3 -> 15 -> NULL
+Entries at index 1: 7 -> NULL
+Entries at index 2: No Hash Entry
+
+Press 1. Insert 2. Display      3. Exit
+Enter your choice: 3
+
+Exiting program...
