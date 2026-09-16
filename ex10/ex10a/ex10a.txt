@@ -1,0 +1,9 @@
+PS C:\Users\mngok> cd "c:\Users\mngok\OneDrive\Documents\Lab - Program Files\DS - Lab\ex10\ex10a\" ; if ($?) { gcc ex10a.c -o ex10a } ; if ($?) { .\ex10a }
+
+--Linear Search--
+Enter the element to search: 45
+Element 45 found at position 2 (index 1).
+
+--Linear Search--
+Enter the element to search: 11
+Element 11 not found in the array.

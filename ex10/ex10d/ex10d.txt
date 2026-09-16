@@ -1,0 +1,5 @@
+PS C:\Users\mngok> cd "c:\Users\mngok\OneDrive\Documents\Lab - Program Files\DS - Lab\ex10\ex10d\" ; if ($?) { gcc ex10d.c -o ex10d } ; if ($?) { .\ex10d }
+Original array:
+12 7 11 13 5 6 
+Sorted array:
+5 6 7 11 12 13 
